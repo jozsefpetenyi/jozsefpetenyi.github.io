@@ -1,0 +1,48 @@
+html {
+    font-size: 12px;
+    background-color: #565559;
+    font-family: "Iowan Old Style", serif;
+    color: #d7d7d7;
+    scroll-behavior: smooth
+}
+
+body {
+	width: 600px;
+	margin: 10px auto;
+	padding: 10px 50px;
+    /*background-color: black;*/
+}
+
+textarea {
+    font-size: 22px;
+    font-family: "Iowan Old Style", serif;
+    color: #d7d7d7;
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+    background-color: #565559;
+    overflow: hidden;
+}
+
+p {
+    font-size: 22px;
+    font-family: "Iowan Old Style", serif;
+    color: #d7d7d7;
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+    background-color: #565559;
+    text-align: justify;
+    text-justify: inter-word;
+    overflow-y: hidden;
+    height: 50vh;
+    padding: 0px;
+    scroll-behavior: smooth
+}
+
+h1 {
+    display: block;
+    margin: 10px auto;
+    padding: 0;
+  	text-align: center;
+}
