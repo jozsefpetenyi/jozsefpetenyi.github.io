@@ -20,6 +20,7 @@ for (let i = 0; i < printable.length; i++) {
 }
 
 text = '\'Anyway, Harry, you\'re interfering with reception. Extendable Ears,\' he added in response to Harry\'s raised eyebrows, and held up the string which Harry now saw was trailing out on to the landing. \'We\'re trying to hear what\'s going on downstairs.\' \'You want to be careful,\' said Ron, staring at the Ear, \'if Mum sees one of them again ...\' \'It\'s worth the risk, that\'s a major meeting they\'re having,\' said Fred. The door opened and a long mane of red hair appeared. \'Oh, hello, Harry!\' said Ron\'s younger sister, Ginny, brightly. \'I thought I heard your voice.\' Turning to Fred and George, she said, \'It\'s no-go with the Extendable Ears, she\'s gone and put an Imperturbable Charm on the kitchen door.\' \'How d\'you know?\' said George, looking crestfallen. \'Tonks told me how to find out,\' said Ginny. \'You just chuck stuff at the door and if it can\'t make contact the door\'s been Imperturbed. I\'ve been flicking Dungbombs at it from the top of the stairs and they just soar away from it, so there\'s no way the Extendable Ears will be able to get under the gap.\' Fred heaved a deep sigh. \'Shame. I really fancied finding out what old Snape\'s been up to.\' \'Snape!\' said Harry quickly. \'Is he here?\' \'Yeah,\' said George, carefully closing the door and sitting down on one of the beds; Fred and Ginny followed. \'Giving a report. Top secret.\' \'Git,\' said Fred idly. \'He\'s on our side now,\' said Hermione reprovingly. Ron snorted. \'Doesn\'t stop him being a git. The way he looks at us when he sees us.\' \'Bill doesn\'t like him, either,\' said Ginny, as though that settled the matter. Harry was not sure his anger had abated yet; but his thirst for information was now overcoming his urge to keep shouting. He sank on to the bed opposite the others. \'Is Bill here?\' he asked. \'I thought he was working in Egypt?\' \'He applied for a desk job so he could come home and work for the Order,\' said Fred. \'He says he misses the tombs, but,\' he smirked, \'there are compensations.\' \'What d\'you mean?\' \'Remember old Fleur Delacour?\' said George.'
+// text = 'test';
 myTextParagraph.textContent = text;
 
 
@@ -135,4 +136,4 @@ function scrollTextParagraphTop(n) {
     return  complete * textHeight - textParagraphHeight / 2;
 }
 
-// ke
+// goat
